@@ -4,6 +4,7 @@ This project implements Monte Carlo Localization (MCL), a widely used probabilis
 
 MCL efficiently fuses odometry (dead reckoning) and range measurements to fixed landmarks (e.g., RFID tags) to recursively estimate the robot's pose distribution while handling sensor noise and environmental uncertainties.
 
+<img src = "pf_localization.png">
 # Features
 
 Motion Model: 
